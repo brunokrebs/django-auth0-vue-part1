@@ -42,9 +42,9 @@
     data() {
 
       Auth0.configure({
-        domain: 'techiediaries.auth0.com',
-        audience: 'https://djangovuedemo.techiediaries.com',
-        clientID: 'TcHzYEyEzpJ0gYtYVyavXXjidRjQ7Yqw',
+        domain: 'bkrebs.auth0.com',
+        audience: 'https://aliens-go-home.digituz.com.br',
+        clientID: '6pjrHHSjF0ME4ShrOxN62ScKyMmXJud6',
         redirectUri: 'http://localhost:8080',
         responseType: 'token id_token',
         scope: 'openid profile'
